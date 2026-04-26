@@ -1,0 +1,8 @@
+requests-sse
+pandas
+python-dotenv
+pydantic
+pymongo
+tqdm
+jupyter
+ipykernel

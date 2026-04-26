@@ -1,0 +1,24 @@
+
+
+#virtual environments & secrets
+.venv/
+venv/
+env/
+.env
+secrets
+*.json
+
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+
+#data
+data/
+logs/
+notebooks/
+*.log
+*.jsonl
+
+
+#IDE and editor files
+.vscode/
