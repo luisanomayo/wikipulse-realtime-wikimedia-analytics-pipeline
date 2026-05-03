@@ -22,6 +22,8 @@ The system addresses:
 
 ## Architecture Overview
 
+![WikiPulse architecture design](wikimedia_pulse_arch_design.png)
+
 ```text
 Wikimedia EventStreams
         ↓
