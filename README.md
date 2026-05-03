@@ -166,8 +166,6 @@ MONGODB_URI=your-mongodb-atlas-uri
 MONGODB_DATABASE=your-database-name
 ```
 
-Do not commit `.env` or service account credentials.
-
 ---
 
 ## How to Run
